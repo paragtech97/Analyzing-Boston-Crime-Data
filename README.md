@@ -1,5 +1,7 @@
 Data Source: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
+The data from each file was compiled togther to form a single ecsv file for a better analysis.
+
 Unveiling Boston's Crime Trends: A Data-Driven Investigation
 
 Abstract: This project delves into the Boston Crime Incident Data, uncovering patterns and trends in criminal activity. We aim to identify hotspots, understand UCR classifications, and pinpoint the most common offenses in specific areas.
